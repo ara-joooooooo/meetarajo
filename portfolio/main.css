@@ -1,0 +1,19 @@
+img {
+    width: 400px;
+    max-width: 800px;
+}
+
+.resume {
+    width: 600px;
+    max-width: 1200px;
+}
+
+body {
+    background-color: rgb(218, 91, 91);
+}
+
+.arastyle {
+    background-color: antiquewhite;
+    max-width: 800px;
+    padding: 30px
+}
